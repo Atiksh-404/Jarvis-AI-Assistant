@@ -6,6 +6,10 @@ Jarvis can listen to voice commands, respond using speech, interact with AI, pro
 
 ---
 
+## 🖥️ Project Preview
+
+![Jarvis AI Assistant](jarvis-preview.png)
+
 ## ✨ Features
 
 - 🎤 Voice command recognition
