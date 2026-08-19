@@ -1,38 +1,44 @@
 # 🤖 Jarvis AI Assistant
 
-A voice-controlled AI desktop assistant built with Python and Google Gemini.
+A voice-controlled AI desktop assistant built with **Python** and **Google Gemini**.
 
 Jarvis can listen to voice commands, respond using speech, interact with AI, provide information such as weather and news, open websites, play music, and provide a graphical user interface.
 
+---
+
 ## ✨ Features
 
-- 🎙️ Voice command recognition
-- 🗣️ Text-to-speech responses
+- 🎤 Voice command recognition
+- 🔊 Text-to-speech responses
 - 🧠 Google Gemini AI integration
 - 🌦️ Weather information
-- 📰 News updates
+- 📰 Latest news updates
 - 🎵 YouTube/music playback
 - 🌐 Open websites using voice commands
 - 🕐 Current time and date
 - 🖥️ Custom graphical user interface
-- 🎤 Wake-word based interaction
-- 🔐 API keys stored securely using environment variables
+- 🗣️ Wake-word based interaction
+- 🔐 Secure API key storage using environment variables
+
+---
 
 ## 🛠️ Technologies Used
 
-- Python
-- Google Gemini API
-- SpeechRecognition
-- PyAudio
-- pyttsx3
-- CustomTkinter
-- Requests
-- python-dotenv
-- YouTube Data API
-- News API
-- Weather API
+- **Python**
+- **Google Gemini API**
+- **SpeechRecognition**
+- **PyAudio**
+- **pyttsx3**
+- **CustomTkinter**
+- **Requests**
+- **python-dotenv**
+- **YouTube Data API**
+- **News API**
+- **Weather API**
 
-## 📂 Project Structure
+---
+
+## 📁 Project Structure
 
 ```text
 Jarvis-AI-Assistant/
@@ -54,5 +60,5 @@ Jarvis-AI-Assistant/
 ├── jarvis_gif.gif
 ├── main.py
 ├── requirements.txt
-└── README.md
+└── README.mds
 ```
